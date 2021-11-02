@@ -1,0 +1,24 @@
+Last login: Fri Jun 25 18:04:35 on ttys000
+(base) cristhianhernandez@cristhians-Air ~ % python
+Python 3.8.8 (default, Apr 13 2021, 12:59:45) 
+[Clang 10.0.0 ] :: Anaconda, Inc. on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> #'buenos dias' 
+>>> print ("buenos dias")
+buenos dias
+>>> #'pair numbers'
+>>> print("2,4,6,8") 
+2,4,6,8
+>>> print(2,4,6,8, sep='_')
+2_4_6_8
+>>> # 'full name' 
+>>> print('cristhian', end= ' ')
+cristhian >>> print('hernandez', end= '\n\n\n')
+hernandez
+
+
+>>> print('loyola', end= '!')
+
+
+
+
